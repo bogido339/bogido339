@@ -1,16 +1,97 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bekimoun</h1>
 
-<!--
-**bogido339/bogido339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Computer Science Student | Cybersecurity Enthusiast | 1337 Student
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;C+Programmer;Bug+Bounty+Hunter;Future+Penetration+Tester" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 👨‍💻 About Me
+
+- 🎓 Student at **1337 School**
+- 🔐 Interested in **Cybersecurity & Bug Bounty**
+- 💻 Currently learning **C programming**
+- 🧠 Passionate about **Algorithms & Problem Solving**
+- 🚀 Goal: Become a **Top Penetration Tester**
+
+---
+
+# ⚙️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,vscode,vim,docker" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 Current Focus
+
+- Cybersecurity
+- C Programming
+- Algorithms
+- Linux
+- Bug Bounty
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|------|-------------|
+| Graph Visualizer | Visualize graphs using pygame |
+| Parsing Engine | Advanced parsing system |
+| Algorithm Training | LeetCode algorithm solutions |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
