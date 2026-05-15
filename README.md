@@ -1,29 +1,29 @@
-<h1 align="center">Hi 👋, I'm Mohamed Bougajdi</h1>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
 
 <p align="center">
-Computer Science Student | Cybersecurity Enthusiast | 1337 Student
+Backend Developer | AI Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;C+Programmer;Bug+Bounty+Hunter;Future+Penetration+Tester" />
+<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;AI+Engineer;Problem+Solver;Tech+Enthusiast" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 🎓 Student at **1337 School**
-- 🔐 Interested in **Cybersecurity & Bug Bounty**
-- 💻 Currently learning **C programming**
-- 🧠 Passionate about **Algorithms & Problem Solving**
-- 🚀 Goal: Become a **Top Penetration Tester**
+- 💻 Specializing in **Backend Development**
+- 🤖 Interested in **Artificial Intelligence**
+- 🧠 Passionate about **Algorithms and System Design**
+- 🚀 Building strong foundations in **Computer Science**
+- ⚡ Always learning and improving
 
 ---
 
 # ⚙️ Languages and Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,vscode,vim,docker" />
+<img src="https://skillicons.dev/icons?i=javascript,python,c,docker,linux,git" />
 </p>
 
 ---
@@ -50,11 +50,11 @@ Computer Science Student | Cybersecurity Enthusiast | 1337 Student
 
 # 🧠 Current Focus
 
-- Cybersecurity
-- C Programming
+- Backend Development
+- Artificial Intelligence
 - Algorithms
+- System Design
 - Linux
-- Bug Bounty
 
 ---
 
@@ -62,9 +62,9 @@ Computer Science Student | Cybersecurity Enthusiast | 1337 Student
 
 | Project | Description |
 |------|-------------|
-| Graph Visualizer | Visualize graphs using pygame |
-| Parsing Engine | Advanced parsing system |
-| Algorithm Training | LeetCode algorithm solutions |
+| Backend API | Building scalable backend services |
+| AI Experiments | Learning and experimenting with AI |
+| Algorithm Training | Practicing algorithms and problem solving |
 
 ---
 
@@ -87,11 +87,11 @@ Computer Science Student | Cybersecurity Enthusiast | 1337 Student
 # 📫 Contact
 
 <p align="center">
-<a href="https://github.com/bogido339">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/bogido339)
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
