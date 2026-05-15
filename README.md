@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bekimoun</h1>
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
 
 <p align="center">
 Computer Science Student | Cybersecurity Enthusiast | 1337 Student
