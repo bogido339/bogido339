@@ -1,97 +1,65 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-
-<p align="center">
-Computer Science Student | Cybersecurity Enthusiast | 1337 Student
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;C+Programmer;Bug+Bounty+Hunter;Future+Penetration+Tester" />
-</p>
+<h1 align="center">Hi 👋, I'm Bekimoun</h1>
+<h3 align="center">Computer Science Student | Cybersecurity Enthusiast | 1337 Student</h3>
 
 ---
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 - 🎓 Student at **1337 School**
 - 🔐 Interested in **Cybersecurity & Bug Bounty**
 - 💻 Currently learning **C programming**
-- 🧠 Passionate about **Algorithms & Problem Solving**
-- 🚀 Goal: Become a **Top Penetration Tester**
+- 🧠 Passionate about **problem solving & algorithms**
+- 🚀 Goal: Become a **top penetration tester**
 
 ---
 
-# ⚙️ Languages and Tools
+## ⚙️ Languages and Tools
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,vscode,vim,docker" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,python,bash,linux,git,github,vscode,vim" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 📈 Top Languages
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🧠 Current Focus
+## 🔥 GitHub Streak
 
-- Cybersecurity
-- C Programming
-- Algorithms
-- Linux
-- Bug Bounty
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description |
 |------|-------------|
 | Graph Visualizer | Visualize graphs using pygame |
-| Parsing Engine | Advanced parsing system |
-| Algorithm Training | LeetCode algorithm solutions |
+| Parsing Engine | Advanced parsing system in Python |
+| Algorithm Training | Solutions to LeetCode problems |
 
 ---
 
-# 🐍 Contribution Snake
+## 📫 Contact
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
-</p>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue"/>
-</p>
+- GitHub: https://github.com/YOUR_USERNAME
+- Email: yourmail@gmail.com
 
 ---
 
-# 📫 Contact
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
